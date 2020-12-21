@@ -8,7 +8,7 @@ import { faEdit, faTrashAlt } from '@fortawesome/free-solid-svg-icons';
 import { Modal, ModalBody, ModalFooter, ModalHeader } from 'reactstrap';
 import moment from "moment";
 
-const url="http://localhost:8080/tarea/";
+const url="http://ec2-3-139-71-41.us-east-2.compute.amazonaws.com:8080/tarea/";
 
 class App extends Component {
 
